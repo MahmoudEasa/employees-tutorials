@@ -1,12 +1,20 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link :to="{ name: 'Home' }">Home</router-link> |
+    <router-link :to="{ name: 'About' }">About</router-link> |
+    <router-link :to="{ name: 'EmployeeList' }">EmployeeList</router-link> |
+    <router-link :to="{ name: 'AddEmployee' }">AddEmployee</router-link>
   </nav>
   <router-view />
 </template>
 
 <style lang="scss">
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

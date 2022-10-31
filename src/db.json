@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jenni Connikie",
+      "age": 65,
+      "department": "HR"
+    },
+    {
+      "id": 2,
+      "name": "Sherlocke O'Callaghan",
+      "age": 72,
+      "department": "HR"
+    },
+    {
+      "id": 3,
+      "name": "Terri-jo Meachen",
+      "age": 51,
+      "department": "HR"
+    },
+    {
+      "id": 4,
+      "name": "Quintus Gregorace",
+      "age": 35,
+      "department": "HR"
+    },
+    {
+      "id": 5,
+      "name": "Farleigh Kiefer",
+      "age": 37,
+      "department": "HR"
+    },
+    {
+      "id": 6,
+      "name": "Melany Minger",
+      "age": 25,
+      "department": "IT"
+    },
+    {
+      "id": 7,
+      "name": "Heinrik Lammenga",
+      "age": 70,
+      "department": "IT"
+    },
+    {
+      "id": 8,
+      "name": "Faustina M'Quharge",
+      "age": 72,
+      "department": "IT"
+    },
+    {
+      "id": 9,
+      "name": "Shena Earl",
+      "age": 54,
+      "department": "IT"
+    },
+    {
+      "id": 10,
+      "name": "Mischa Driffe",
+      "age": 41,
+      "department": "IT"
+    }
+  ]
+}
